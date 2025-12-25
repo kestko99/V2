@@ -1,0 +1,1 @@
+javascript:(function()%7Balert('Bookmarklet%20test%20Please%20check%20if%20bookmark.txt%20exists.');%7D)();
